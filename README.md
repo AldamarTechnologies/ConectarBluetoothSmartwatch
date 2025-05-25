@@ -6,7 +6,7 @@ Aplicación para conectar smartwatch con aplicación móvil por medio de Bluetoo
 🥈Mostrar dispositivos disponibles nuevos o ya enteriormente vinculados.\
 🥉Al vincular, mostrar código de vinculación.
 
-🤩Historial de dispositivos.\
-🤩Conexiones exitosos.\
+🤩Historial de dispositivos.
+🤩Conexiones exitosos.
 
-🗨️Estado final: Éxitoso.🥳\
+🗨️Estado final: Éxitoso.🥳
