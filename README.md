@@ -1,2 +1,2 @@
-# Proceso de desarrollo de Medisync 1.0
-Aqui se encuentran todas las versiones de proceso del desarrollo de la aplicación de Medisync 1.0
+# Prueba 01 de conexión entre dispositivos de Bluetooth
+Prueba de conexión de aplicación con dispositivos nuevos o ya anteriormente emparejados, y mandar codigo de vinculación.
